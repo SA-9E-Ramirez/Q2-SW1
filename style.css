@@ -1,0 +1,23 @@
+h1 {
+	text-align: center;
+	background-color: red;
+	color: yellow;
+}
+
+th, td {
+	text-align: left;
+	padding: 5px;
+}
+
+img {
+	width: 500px;
+	height: 500px;
+}
+
+.ddd {
+	text-align: center;
+	}
+
+body {
+	background-color: blue;
+}
